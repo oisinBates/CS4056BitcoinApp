@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Mike\Desktop\BitcoinExRate FINAL SUBMISSION\BitcoinExRate\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d0dda274b703dd9c5bb056867649d22b4171ae7d">
+        <dex dex="C:\Users\Mike\Desktop\BitcoinExRate FINAL SUBMISSION\BitcoinExRate\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-8.1.0_58bc4be3649d966d2d3a937ff133e54d31e1d7b4.jar" />
+    </item>
+    <item
+        jar="C:\Users\Mike\Desktop\BitcoinExRate FINAL SUBMISSION\BitcoinExRate\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="C:\Users\Mike\Desktop\BitcoinExRate FINAL SUBMISSION\BitcoinExRate\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.3.0_2939c1b650e4c22da1c9cc5831c678243deb0920.jar" />
+    </item>
+    <item
+        jar="C:\Users\Mike\Desktop\BitcoinExRate FINAL SUBMISSION\BitcoinExRate\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="4477ea44f5ec5ad064022a22691732d7638ff197">
+        <dex dex="C:\Users\Mike\Desktop\BitcoinExRate FINAL SUBMISSION\BitcoinExRate\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-appindexing-8.1.0_304d6684a1ee2d9c29ab5e07ae56b377be226cb1.jar" />
+    </item>
+    <item
+        jar="C:\Users\Mike\.gradle\caches\modules-2\files-2.1\com.github.PhilJay\MPAndroidChart\v2.2.4\7abd1ecef320da6a7679b137083151401fe8bf43\MPAndroidChart-v2.2.4.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="7abd1ecef320da6a7679b137083151401fe8bf43">
+        <dex dex="C:\Users\Mike\Desktop\BitcoinExRate FINAL SUBMISSION\BitcoinExRate\app\build\intermediates\pre-dexed\debug\MPAndroidChart-v2.2.4_f4de8b312be8da0f20d6938d0142187721b84e19.jar" />
+    </item>
+    <item
+        jar="C:\Users\Mike\Desktop\BitcoinExRate FINAL SUBMISSION\BitcoinExRate\app\libs\volley.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d4aaa36e04ee71a83444f8367c97a46fda662d2c">
+        <dex dex="C:\Users\Mike\Desktop\BitcoinExRate FINAL SUBMISSION\BitcoinExRate\app\build\intermediates\pre-dexed\debug\volley_a1c001181e27ddafa7b7286adf82175ce0cf6275.jar" />
+    </item>
+    <item
+        jar="C:\Users\Mike\Desktop\BitcoinExRate FINAL SUBMISSION\BitcoinExRate\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="C:\Users\Mike\Desktop\BitcoinExRate FINAL SUBMISSION\BitcoinExRate\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.3.0_5a51d82cef655870473bf2a61e17f0d816c418e8.jar" />
+    </item>
+    <item
+        jar="C:\Users\Mike\Desktop\BitcoinExRate FINAL SUBMISSION\BitcoinExRate\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="C:\Users\Mike\Desktop\BitcoinExRate FINAL SUBMISSION\BitcoinExRate\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.3.0_1207acdf6ebf01dedd09a8f076ffd387cc1a0e6a.jar" />
+    </item>
+    <item
+        jar="C:\Users\Mike\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.3.0\support-annotations-23.3.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="C:\Users\Mike\Desktop\BitcoinExRate FINAL SUBMISSION\BitcoinExRate\app\build\intermediates\pre-dexed\debug\support-annotations-23.3.0_9bceabc89c805cff51e94ed252fa477b6d02a295.jar" />
+    </item>
+    <item
+        jar="C:\Users\Mike\Desktop\BitcoinExRate FINAL SUBMISSION\BitcoinExRate\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="C:\Users\Mike\Desktop\BitcoinExRate FINAL SUBMISSION\BitcoinExRate\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.3.0_36aed9752565f67c7a64ed385beb5fcb7945ff29.jar" />
+    </item>
+    <item
+        jar="C:\Users\Mike\Desktop\BitcoinExRate FINAL SUBMISSION\BitcoinExRate\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\libs\internal_impl-23.3.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="C:\Users\Mike\Desktop\BitcoinExRate FINAL SUBMISSION\BitcoinExRate\app\build\intermediates\pre-dexed\debug\internal_impl-23.3.0_ebbcd98f98393ca934607472e690181f241d32b5.jar" />
+    </item>
+
+</items>
