@@ -4,13 +4,13 @@ Android project completed as part of CS4056, Mobile App Design,at the University
 
 
 <img src="https://github.com/oisinBates/CS4056BitcoinApp/blob/master/screenshots/homeScreen.png" width="270px" height="480px" />
-<img src="https://github.com/oisinBates/CS4056BitcoinApp/blob/master/screenshots/graph.png" width="180px" height="320px" />
-<img src="https://github.com/oisinBates/CS4056BitcoinApp/blob/master/screenshots/dummySettingsScreen.png" width="180px" height="320px" /><br>
+<img src="https://github.com/oisinBates/CS4056BitcoinApp/blob/master/screenshots/graph.png" width="270px" height="480px" />
+<img src="https://github.com/oisinBates/CS4056BitcoinApp/blob/master/screenshots/dummySettingsScreen.png" width="270px" height="480px" /><br>
 Screenshots of the home screen, graph screen, and settings screen.
 
-<img src="https://github.com/oisinBates/CS4056BitcoinApp/blob/master/screenshots/noteTaker.png" width="180px" height="320px" />
-<img src="https://github.com/oisinBates/CS4056BitcoinApp/blob/master/screenshots/noteTakerRemoveNote.png" width="180px" height="320px" />
-<img src="https://github.com/oisinBates/CS4056BitcoinApp/blob/master/screenshots/noteTakerAddNote.png" width="180px" height="320px" /><br>
+<img src="https://github.com/oisinBates/CS4056BitcoinApp/blob/master/screenshots/noteTaker.png" width="270px" height="480px" />
+<img src="https://github.com/oisinBates/CS4056BitcoinApp/blob/master/screenshots/noteTakerRemoveNote.png" width="270px" height="480px" />
+<img src="https://github.com/oisinBates/CS4056BitcoinApp/blob/master/screenshots/noteTakerAddNote.png" width="270px" height="480px" /><br>
 Screenshots of the notetaker screen
 
 
