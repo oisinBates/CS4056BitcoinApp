@@ -6,7 +6,8 @@ Android project completed as part of CS4056, Mobile App Design,at the University
 <img src="https://github.com/oisinBates/CS4056BitcoinApp/blob/master/screenshots/dummySettingsScreen.png" width="180px" height="320px" />
 <figcaption>Fig1. - A view of the pulpit rock in Norway.</figcaption>
 </figure>
+<img src="https://github.com/oisinBates/CS4056BitcoinApp/blob/master/screenshots/homeScreen.png" width="180px" height="320px" />
 <img src="https://github.com/oisinBates/CS4056BitcoinApp/blob/master/screenshots/dummySettingsScreen.png" width="180px" height="320px" />
-test2
-<img src="https://github.com/oisinBates/CS4056BitcoinApp/blob/master/screenshots/dummySettingsScreen.png" width="180px" height="320px" />
-test3
+<img src="https://github.com/oisinBates/CS4056BitcoinApp/blob/master/screenshots/graph.png" width="180px" height="320px" />
+<img src="https://github.com/oisinBates/CS4056BitcoinApp/blob/master/screenshots/noteTaker.png" width="180px" height="320px" />
+
