@@ -14,7 +14,7 @@ Android project completed as part of CS4056, Mobile App Design,at the University
 <figure>
 <img src="https://github.com/oisinBates/CS4056BitcoinApp/blob/master/screenshots/graph.png" width="180px" height="320px" />
 <figcaption>Screenshot of graph screen.</figcaption>
-</figure>
+</figure><br>
 
 <figure>
 <img src="https://github.com/oisinBates/CS4056BitcoinApp/blob/master/screenshots/noteTaker.png" width="180px" height="320px" />
