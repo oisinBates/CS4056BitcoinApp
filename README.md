@@ -4,5 +4,5 @@ Android project completed as part of CS4056, Mobile App Design,at the University
 
 
 test
-![testing](https://github.com/oisinBates/CS4056BitcoinApp/blob/master/screenshots/dummySettingsScreen.png)
 <img src="https://github.com/oisinBates/CS4056BitcoinApp/blob/master/screenshots/dummySettingsScreen.png" width="360px" height="640px" />
+<img src="https://github.com/oisinBates/CS4056BitcoinApp/blob/master/screenshots/dummySettingsScreen.png" width="180px" height="320px" />
