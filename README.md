@@ -5,9 +5,13 @@ Android project completed as part of CS4056, Mobile App Design,at the University
 
 <img src="https://github.com/oisinBates/CS4056BitcoinApp/blob/master/screenshots/homeScreen.png" width="180px" height="320px" />
 <img src="https://github.com/oisinBates/CS4056BitcoinApp/blob/master/screenshots/graph.png" width="180px" height="320px" />
-<img src="https://github.com/oisinBates/CS4056BitcoinApp/blob/master/screenshots/dummySettingsScreen.png" width="180px" height="320px" />
+<img src="https://github.com/oisinBates/CS4056BitcoinApp/blob/master/screenshots/dummySettingsScreen.png" width="180px" height="320px" /><br>
 Screenshots of the home screen, graph screen, and settings screen.
 
+<img src="https://github.com/oisinBates/CS4056BitcoinApp/blob/master/screenshots/noteTaker.png" width="180px" height="320px" />
+<img src="https://github.com/oisinBates/CS4056BitcoinApp/blob/master/screenshots/noteTakerRemoveNote.png" width="180px" height="320px" />
+<img src="https://github.com/oisinBates/CS4056BitcoinApp/blob/master/screenshots/noteTakerAddNote.png" width="180px" height="320px" /><br>
+Screenshots of the notetaker screen
 
 <figure>
 <img src="https://github.com/oisinBates/CS4056BitcoinApp/blob/master/screenshots/homeScreen.png" width="180px" height="320px" />
